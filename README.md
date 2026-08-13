@@ -1,4 +1,4 @@
-# Olá, eu sou Leonardo Diello
+# Olá, eu sou Leonardo Diello Charão
 
 Sou estudante de **Engenharia de Software** e venho desenvolvendo projetos para colocar em prática meus conhecimentos em programação, desenvolvimento web e construção de aplicações.
 
