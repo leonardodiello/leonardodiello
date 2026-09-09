@@ -1,8 +1,8 @@
-# Olá, eu sou Leonardo Diello 👋
+# Olá, eu sou Leonardo Diello 
 
 ### Estudante de Engenharia de Software | Python | Back-end
 
-Sou estudante de **Engenharia de Software no Instituto Federal do Amazonas (IFAM)** e desenvolvedor em formação, interessado principalmente em **Python, desenvolvimento Back-end, APIs e banco de dados**.
+Sou estudante de **Engenharia de Software no Instituto Federal do Amazonas (IFAM)** e desenvolvedor em formação, com interesse em **Python, desenvolvimento Back-end, APIs, bancos de dados e processamento de dados**.
 
 Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquiridos durante minha formação em aplicações práticas.
 
@@ -10,12 +10,13 @@ Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquirid
 
 ## Sobre mim
 
-*  Estudante de Engenharia de Software no IFAM.
-*  Focado em desenvolvimento com Python.
-*  Estudando desenvolvimento Back-end e APIs REST.
-*  Aprofundando conhecimentos em SQL e PostgreSQL.
-*  Interesse em processamento de dados e Inteligência Artificial.
-*  Buscando minha primeira oportunidade profissional na área de tecnologia.
+* Estudante de Engenharia de Software no IFAM.
+* Focado em desenvolvimento com Python.
+* Estudando desenvolvimento Back-end e APIs REST.
+* Desenvolvendo projetos com bancos de dados relacionais.
+* Aprofundando conhecimentos em SQL e PostgreSQL.
+* Interesse em processamento de dados e Inteligência Artificial.
+* Buscando minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
@@ -33,11 +34,12 @@ Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquirid
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Ferramentas e tecnologias
+### Back-end e ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -57,13 +59,13 @@ Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquirid
 
 ## Projetos em destaque
 
-### 🤖 Chatbot de Turismo
+###  Chatbot de Turismo
 
 Chatbot desenvolvido em Python durante um projeto do **Samsung Ocean**, utilizando técnicas de **Processamento de Linguagem Natural (NLP)**.
 
 O sistema utiliza **TF-IDF e similaridade do cosseno** para identificar perguntas semelhantes em um conjunto de dados sobre cidades brasileiras.
 
-Também possui integração com o **Telegram**, permitindo que o chatbot seja utilizado diretamente pelo aplicativo.
+Também possui integração com o **Telegram**, permitindo a utilização do chatbot diretamente pelo aplicativo.
 
 **Tecnologias:** Python, Pandas, NLTK, Scikit-learn, TF-IDF, Telegram Bot API e python-dotenv.
 
@@ -71,11 +73,30 @@ Também possui integração com o **Telegram**, permitindo que o chatbot seja ut
 
 ---
 
-### 🌦️ WeatherAPI
+###  CRUD Python + MySQL
+
+Sistema CRUD desenvolvido em Python integrado ao **MySQL**, criado para praticar operações de manipulação de dados em um banco de dados relacional.
+
+O projeto implementa as quatro operações fundamentais:
+
+* Create.
+* Read.
+* Update.
+* Delete.
+
+A conexão com o banco utiliza variáveis de ambiente para manter as credenciais fora do código-fonte.
+
+**Tecnologias:** Python, MySQL, mysql-connector-python e python-dotenv.
+
+[🔗 Ver projeto](https://github.com/leonardodiello/CRUD_Python)
+
+---
+
+###  WeatherAPI
 
 Aplicação desenvolvida em Python que consome uma **API de clima** e apresenta os dados através de uma interface desenvolvida com **Streamlit**.
 
-O usuário informa uma cidade e recebe informações sobre temperatura, condição climática e outros dados fornecidos pela API.
+O usuário informa uma cidade e recebe informações como temperatura, condição climática e outros dados fornecidos pela API.
 
 **Tecnologias:** Python, Streamlit, Requests e REST API.
 
@@ -83,7 +104,7 @@ O usuário informa uma cidade e recebe informações sobre temperatura, condiç�
 
 ---
 
-### 🏦 Sistema Bancário com POO
+###  Sistema Bancário com POO
 
 Sistema bancário desenvolvido em Python para praticar conceitos de **Programação Orientada a Objetos**, incluindo herança, abstração, encapsulamento, polimorfismo e composição.
 
@@ -95,19 +116,19 @@ O projeto simula operações como criação de contas, depósitos e saques.
 
 ---
 
-### 🚗 Site Porsche
+###  Calculadora de CR
 
-Projeto desenvolvido durante um curso do **Projeto Aranouá**, em parceria com o IFAM, para praticar fundamentos de desenvolvimento Web.
+Aplicação desenvolvida em Python durante o **Projeto Aranouá**, em parceria com o IFAM, no curso de **Introdução à Python para Ciência de Dados**.
 
-O projeto utiliza HTML e CSS para construção de uma página inspirada na identidade visual da Porsche.
+O sistema calcula o **Coeficiente de Rendimento (CR)** considerando as notas e cargas horárias das disciplinas, além de permitir o cálculo de um novo CR a partir de um CR anterior.
 
-**Tecnologias:** HTML e CSS.
+**Tecnologias:** Python e Streamlit.
 
-[🔗 Ver projeto](https://github.com/leonardodiello/site_porsche)
+[🔗 Ver projeto](https://github.com/leonardodiello/CR)
 
 ---
 
-##  Atualmente estudando
+## Atualmente estudando
 
 ```text
 Python
@@ -119,30 +140,23 @@ Python
 
 Banco de Dados
 ├── SQL
+├── MySQL
 └── PostgreSQL
 
-Desenvolvimento
+Back-end
+├── Arquitetura de aplicações
+├── Integração com APIs
+└── Desenvolvimento de APIs
+
+Ferramentas
 ├── Git
 ├── GitHub
-└── Arquitetura de aplicações
+└── VS Code
 ```
 
 ---
 
-##  GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardodiello&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodiello&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardodiello&theme=transparent&hide_border=true" />
-</p>
-
----
-
-##  Objetivo
+## Objetivo
 
 Meu objetivo é me desenvolver profissionalmente como **desenvolvedor de software**, com foco em **Back-end e Python**.
 
@@ -150,7 +164,7 @@ Estou buscando oportunidades de estágio onde possa aplicar meus conhecimentos, 
 
 ---
 
-##  Entre em contato
+## Entre em contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-diello/">
