@@ -1,22 +1,22 @@
-# Olá, eu sou Leonardo Diello 
+# Olá, eu sou Leonardo Diello
 
 ### Estudante de Engenharia de Software | Python | Back-end
 
-Sou estudante de **Engenharia de Software no Instituto Federal do Amazonas (IFAM)** e desenvolvedor em formação, com interesse em **Python, desenvolvimento Back-end, APIs, bancos de dados e processamento de dados**.
+Sou estudante de **Engenharia de Software no IFAM** e desenvolvedor em formação, com interesse principalmente em **Python, desenvolvimento back-end, APIs, bancos de dados e processamento de dados**.
 
-Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquiridos durante minha formação em aplicações práticas.
+Atualmente, estou buscando evoluir meus conhecimentos por meio de projetos acadêmicos e pessoais, colocando em prática conceitos de programação, orientação a objetos, desenvolvimento web e integração com bancos de dados.
 
 ---
 
 ## Sobre mim
 
-* Estudante de Engenharia de Software no IFAM.
-* Focado em desenvolvimento com Python.
-* Estudando desenvolvimento Back-end e APIs REST.
-* Desenvolvendo projetos com bancos de dados relacionais.
-* Aprofundando conhecimentos em SQL e PostgreSQL.
-* Interesse em processamento de dados e Inteligência Artificial.
-* Buscando minha primeira oportunidade profissional na área de tecnologia.
+* Estudante de Engenharia de Software no **IFAM**
+* Foco em **Python e desenvolvimento back-end**
+* Conhecimentos em **Flask, FastAPI, MySQL e PostgreSQL**
+* Experiência acadêmica com **C, Python e Java**
+* Interesse em **APIs REST, bancos de dados e processamento de dados**
+* Participação em projetos e cursos de formação em tecnologia
+* Buscando minha primeira oportunidade de estágio na área de desenvolvimento
 
 ---
 
@@ -24,159 +24,127 @@ Gosto de aprender desenvolvendo projetos e transformar os conhecimentos adquirid
 
 ### Linguagens
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Back-end e ferramentas
+### Back-end e bancos de dados
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Dados e Machine Learning
+### Ferramentas e bibliotecas
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
 ## Projetos em destaque
 
-###  Chatbot de Turismo
+### CRUD Python + MySQL
 
-Chatbot desenvolvido em Python durante um projeto do **Samsung Ocean**, utilizando técnicas de **Processamento de Linguagem Natural (NLP)**.
+Aplicação web desenvolvida com **Python, Flask e MySQL**, implementando as operações de Create, Read, Update e Delete.
 
-O sistema utiliza **TF-IDF e similaridade do cosseno** para identificar perguntas semelhantes em um conjunto de dados sobre cidades brasileiras.
+O projeto possui interface web, integração com banco de dados e utilização de variáveis de ambiente para configuração.
 
-Também possui integração com o **Telegram**, permitindo a utilização do chatbot diretamente pelo aplicativo.
+**Tecnologias:** Python, Flask, MySQL, HTML, CSS, Jinja2.
 
-**Tecnologias:** Python, Pandas, NLTK, Scikit-learn, TF-IDF, Telegram Bot API e python-dotenv.
-
-[🔗 Ver projeto](https://github.com/leonardodiello/Chatbot_turismo)
+[Ver projeto](https://github.com/leonardodiello/CRUD_Python)
 
 ---
 
-###  CRUD Python + MySQL
+### Chatbot de Turismo
 
-Sistema CRUD desenvolvido em Python integrado ao **MySQL**, criado para praticar operações de manipulação de dados em um banco de dados relacional.
+Chatbot desenvolvido em Python durante um curso do **Samsung Ocean**, com processamento de linguagem natural e integração com o Telegram.
 
-O projeto implementa as quatro operações fundamentais:
+O projeto utiliza **TF-IDF e similaridade por cosseno** para identificar a intenção das mensagens e retornar informações relacionadas a atrações turísticas.
 
-* Create.
-* Read.
-* Update.
-* Delete.
+**Tecnologias:** Python, Pandas, NLTK, Scikit-learn, Telegram Bot API e python-dotenv.
 
-A conexão com o banco utiliza variáveis de ambiente para manter as credenciais fora do código-fonte.
+[Ver projeto](https://github.com/leonardodiello/Chatbot_turismo)
 
-**Tecnologias:** Python, MySQL, mysql-connector-python e python-dotenv.
-
-[🔗 Ver projeto](https://github.com/leonardodiello/CRUD_Python)
+**Status:** Em melhoria
 
 ---
 
-###  WeatherAPI
+### WeatherAPI
 
-Aplicação desenvolvida em Python que consome uma **API de clima** e apresenta os dados através de uma interface desenvolvida com **Streamlit**.
+Aplicação desenvolvida em Python utilizando uma API de previsão do tempo. O usuário informa uma cidade e recebe informações sobre as condições climáticas.
 
-O usuário informa uma cidade e recebe informações como temperatura, condição climática e outros dados fornecidos pela API.
+O projeto também utiliza **Streamlit** para construção da interface.
 
-**Tecnologias:** Python, Streamlit, Requests e REST API.
+**Tecnologias:** Python, Streamlit e API REST.
 
-[🔗 Ver projeto](https://github.com/leonardodiello/WeatherAPI)
-
----
-
-###  Sistema Bancário com POO
-
-Sistema bancário desenvolvido em Python para praticar conceitos de **Programação Orientada a Objetos**, incluindo herança, abstração, encapsulamento, polimorfismo e composição.
-
-O projeto simula operações como criação de contas, depósitos e saques.
-
-**Tecnologias:** Python e POO.
-
-[🔗 Ver projeto](https://github.com/leonardodiello/banco_poo)
+[Ver projeto](https://github.com/leonardodiello/WeatherAPI)
 
 ---
 
-###  Calculadora de CR
+### Sistema Bancário POO
 
-Aplicação desenvolvida em Python durante o **Projeto Aranouá**, em parceria com o IFAM, no curso de **Introdução à Python para Ciência de Dados**.
+Projeto desenvolvido para praticar conceitos de **Programação Orientada a Objetos** em Python.
 
-O sistema calcula o **Coeficiente de Rendimento (CR)** considerando as notas e cargas horárias das disciplinas, além de permitir o cálculo de um novo CR a partir de um CR anterior.
+Foram utilizados conceitos como:
+
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Abstração
+* Composição
+
+[Ver projeto](https://github.com/leonardodiello/banco_poo)
+
+---
+
+### Calculadora de CR
+
+Projeto desenvolvido durante o **Projeto Aranouá**, em parceria com o IFAM, no curso de **Introdução à Python para Ciência de Dados**.
+
+A aplicação calcula o **Coeficiente de Rendimento (CR)** considerando as notas e cargas horárias das disciplinas, além de permitir a utilização de um CR anterior.
 
 **Tecnologias:** Python e Streamlit.
 
-[🔗 Ver projeto](https://github.com/leonardodiello/CR)
+[Ver projeto](https://github.com/leonardodiello/CR)
 
 ---
 
 ## Atualmente estudando
 
-```text
-Python
-├── Programação Orientada a Objetos
-├── APIs REST
-├── FastAPI
-├── Testes
-└── Boas práticas
-
-Banco de Dados
-├── SQL
-├── MySQL
-└── PostgreSQL
-
-Back-end
-├── Arquitetura de aplicações
-├── Integração com APIs
-└── Desenvolvimento de APIs
-
-Ferramentas
-├── Git
-├── GitHub
-└── VS Code
-```
+* Python Orientado a Objetos
+* Desenvolvimento de APIs REST
+* Flask e FastAPI
+* Bancos de dados relacionais
+* SQL e integração com Python
+* Testes automatizados
+* Boas práticas de desenvolvimento
+* Git e GitHub
+* Arquitetura e organização de aplicações back-end
 
 ---
 
 ## Objetivo
 
-Meu objetivo é me desenvolver profissionalmente como **desenvolvedor de software**, com foco em **Back-end e Python**.
-
-Estou buscando oportunidades de estágio onde possa aplicar meus conhecimentos, aprender com profissionais da área e contribuir para projetos reais.
+Meu objetivo é atuar como **desenvolvedor back-end**, principalmente com Python, e continuar desenvolvendo projetos que me permitam transformar os conhecimentos adquiridos na graduação em aplicações práticas.
 
 ---
 
-## Entre em contato
+## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-diello/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/leonardodiello">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardo-diello/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/leonardodiello)
 
 ---
 
-<p align="center">
-  <i>"Aprendendo, construindo e evoluindo um projeto de cada vez."</i>
-</p>
+> Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.
